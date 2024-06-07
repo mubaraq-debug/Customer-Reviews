@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Reviews</title>
+    <link rel="stylesheet" href="output.css" />
+  </head>
+  <body>
+    <header class="text-center pt-28 flex flex-col items-center">
+      <h1 class="text-4xl capitalize font-semibold pb-3">our reviews</h1>
+      <div class="bg-black w-36 h-1"></div>
+    </header>
+
+    <section
+      class="card flex flex-col mx-auto items-center py-14 px-10 mt-16 w-fit shadow-2xl mb-20"
+    >
+      <div class="pics pb-5">
+        <img
+          src="/assets/user1.jpeg"
+          alt="pics"
+          id="user-img"
+          class="w-36 h-36 rounded-full"
+        />
+      </div>
+
+      <h3 id="user-name" class="capitalize text-xl font-semibold">
+        Sarah Francis
+      </h3>
+
+      <h2 id="user-job" class="text-base font-thin pb-7">Product Designer</h2>
+      <p id="user-text" class="w-80 text-justify">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel, a
+        possimus. Quae, culpa eveniet aut, dolore autem hic amet debitis magnam
+        iure dolores laborum laudantium nam commodi animi iste perferendis nisi
+        obcaecati ab itaque omnis explicabo fuga neque.
+      </p>
+
+      <div class="btns flex gap-3 items-center pt-5">
+        <button class="prev-btn border-none rounded-lg px-4 py-2 bg-black text-white font-light">prev</button>
+        <button class="next-btn border-none rounded-lg px-4 py-2 bg-black text-white font-light">next</button>
+      </div>
+    </section>
+
+    <script src="/script.js"></script>
+  </body>
+</html>
