@@ -45,9 +45,8 @@ A responsive customer review website built with HTML, Tailwind CSS, Font Awesome
 
 ## Screenshots
 
-![Homepage](screenshots/homepage.png)
-![Submit Review](screenshots/submit-review.png)
-![View Reviews](screenshots/view-reviews.png)
+![Customer Review](https://github.com/mubaraq-debug/Customer-Reviews/blob/dev/assets/comment.png)
+
 
 ## Technologies Used
 
