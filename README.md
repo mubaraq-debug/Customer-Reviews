@@ -89,7 +89,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or feedback, please contact:
 
-- **Your Name**: [mubaraqmuhammad06@gmail.com](mailto:mubaraqmuhammad06@gmail.com)
+- **noFugaziDev**: [mubaraqmuhammad06@gmail.com](mailto:mubaraqmuhammad06@gmail.com)
 - **GitHub**: [mubaraq-debug](https://github.com/mubaraq-debug)
 
 ---
